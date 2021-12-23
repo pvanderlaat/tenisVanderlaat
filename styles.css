@@ -21,10 +21,13 @@ h3 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; fo
     width: 15%;
     display: flex;
     justify-content: center;
+    /* width:fit-content; */
 }
 .title-logo img{
     max-height: 100%;
     align-self: center;
+    max-width: 100%
+    /* width:fit-content; */
 }
 .title-name{
     height: 100%;
